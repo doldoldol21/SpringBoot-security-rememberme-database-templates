@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RememberApplication<remember>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.springboot.remember.RememberApplication",
+            "projectName": "remember",
+            "args": ""
+        }
+    ]
+}
